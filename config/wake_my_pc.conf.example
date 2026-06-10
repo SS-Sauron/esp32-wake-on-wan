@@ -1,0 +1,11 @@
+# Copy this file to ~/.wake_my_pc.conf and edit
+MQTT_HOST="your-cluster.s1.eu.hivemq.cloud"
+MQTT_PORT="8883"
+MQTT_USER="your_mqtt_username"
+MQTT_PASS="your_secure_password"
+MQTT_TOPIC="home/wakeup"
+MQTT_PAYLOAD="WAKE_MY_PC"
+# PC_HOST="192.168.1.50"   # optional – IP to ping after wake
+# CA_FILE="/etc/ssl/certs/isrgrootx1.pem"
+# RETRY_MAX=3
+# WAIT_BOOT=60
