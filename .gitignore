@@ -1,0 +1,26 @@
+# Arduino IDE
+*.ino.precompiled
+*.elf
+*.o
+*.d
+*.a
+*.map
+*.bin
+build/
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Config with secrets
+config.h
+wake_my_pc.conf
+*.pem
+*.key
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
