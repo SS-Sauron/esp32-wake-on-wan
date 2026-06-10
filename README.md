@@ -1,5 +1,3 @@
-Below is the recommended **folder and file structure** for your GitHub repository, followed by the complete content of each essential file.
-
 ## 📁 Repository Structure
 
 ```
@@ -28,8 +26,6 @@ esp32-wake-on-wan/
 ---
 
 ## 📄 File Contents
-
-### `README.md`
 
 ```markdown
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
