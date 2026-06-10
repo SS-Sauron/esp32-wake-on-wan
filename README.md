@@ -1,7 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![ESP32](https://img.shields.io/badge/ESP32-Arduino-blue)](https://github.com/espressif/arduino-esp32)
 [![MQTT](https://img.shields.io/badge/MQTT-HiveMQ-orange)](https://www.hivemq.com/)
-[![GitHub stars](https://img.shields.io/github/stars/SS-Sauron/esp32-wake-on-wan.svg?style=social)](https://github.com/SS-Sauron/esp32-wake-on-wan/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 <div align="center">
