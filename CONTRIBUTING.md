@@ -1,11 +1,10 @@
-```markdown
 # Contributing to ESP32 Wake-on-WAN Relay
 
 First off, thanks for taking the time to contribute! 🎉
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
+This project adheres to the [Contributor Covenant Code of Conduct](CODE OF CONDUCT.md). By participating, you are expected to uphold this code.
 
 ## How Can I Contribute?
 
