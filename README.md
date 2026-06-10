@@ -22,7 +22,7 @@
 | 🧠 Complexity | Setup headaches | ✅ One-click Arduino sketch |
 | 📡 No static IP? | Stuck | ✅ Works behind CGNAT |
 
-> **"I can wake my home PC from a coffee shop in Tokyo, using a $5 microcontroller."** – Real user
+> **"I can wake my home PC from a coffee shop in Tokyo, using a $5 microcontroller."** – Totally Real Human User
 
 ---
 
